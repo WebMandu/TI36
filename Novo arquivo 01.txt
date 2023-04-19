@@ -2,15 +2,4 @@ Arquivo 01 - Versão 1
 
 Arquivo editado no GitHub
 
-Editado novamente no bloco de notas.
-
-Editado novamente no GitHub!!!
-
-Mais uma vez pelo bloco de notas!!!
-
-
-Editado por Pedro M.
-
-Agora o Pedro editou pelo GitHub de novo.!
-
-Edição é coisa rápida.
+Editado no Bloco de notas!
